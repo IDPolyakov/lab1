@@ -1,0 +1,5 @@
+### IntelliJ IDEA ###
+*
+!src/
+!src/**
+!.gitignore
